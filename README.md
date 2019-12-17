@@ -1,0 +1,3 @@
+# springboot_Mybatis_CRUD
+springboot+mybatis简单的增删改查
+sql语句是写在方法上面的，另一种是写在application.properties里面
